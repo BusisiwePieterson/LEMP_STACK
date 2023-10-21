@@ -33,23 +33,23 @@ In order to display web pages to our vistors, we are going to emply Nginx. We'll
 `sudo apt install nginx`
 `sudo systemctl status nginx`
 
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_1.png)  
+
 ![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_2.png)  
 
-![Images](images/Screenshot_2.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_3.png)  
 
-![Images](images/Screenshot_3.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_4.png)  
 
-![Images](images/Screenshot_4.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_5.png)  
 
-![Images](images/Screenshot_5.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_6.png)  
 
-![Images](images/Screenshot_6.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_7.png)  
 
-![Images](images/Screenshot_7.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_8.png)  
 
-![Images](images/Screenshot_8.png)
-
-![Images](images/Screenshot_9.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_9.png)  
 
 ![Images](images/Screenshot_10.png)
 
