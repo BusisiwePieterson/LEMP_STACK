@@ -222,3 +222,8 @@ Finally, access the page in your web browser.
  - `http://<Public_domain_or_IP>/todo_list.php`
 
 ![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_23.png) 
+
+
+# THE END !
+
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/happy.jpg)  
