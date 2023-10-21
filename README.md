@@ -1,4 +1,3 @@
-# LEMP_STACK
 
 
 ![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/lemp.jpg)  
