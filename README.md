@@ -30,9 +30,7 @@ Inorder to complete the project you will need an AWS account and virtual server 
 In order to display web pages to our vistors, we are going to emply Nginx. We'll use the `apt` package manager for the install. Since its the first time using the `apt` for the session, we will start by updating the server's package index. Following that, we will check if the server(nginx) is running
 
 `sudo apt update`
-
 `sudo apt install nginx`
-
 `sudo systemctl status nginx`
 
 ![Images](images/Screenshot_1.png)
