@@ -1,7 +1,7 @@
 # LEMP_STACK
 Web Stack Implemantation(LEMP)
 
-![Images](images/lemp.jpg)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/lemp.jpg)  
 
 ### What is LEMP?
 
@@ -33,7 +33,7 @@ In order to display web pages to our vistors, we are going to emply Nginx. We'll
 `sudo apt install nginx`
 `sudo systemctl status nginx`
 
-![Images](images/Screenshot_1.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_2.png)  
 
 ![Images](images/Screenshot_2.png)
 
