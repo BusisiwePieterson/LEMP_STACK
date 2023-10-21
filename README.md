@@ -226,4 +226,4 @@ Finally, access the page in your web browser.
 
 # THE END !
 
-![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/happy.jpg)  
+
