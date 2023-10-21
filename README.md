@@ -51,30 +51,30 @@ In order to display web pages to our vistors, we are going to emply Nginx. We'll
 
 ![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_9.png)  
 
-![Images](images/Screenshot_10.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_10.png)  
 
-![Images](images/Screenshot_11.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_11.png)  
 
-![Images](images/Screenshot_12.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_12.png) 
 
-![Images](images/Screenshot_13.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_13.png) 
 
-![Images](images/Screenshot_14.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_14.png) 
 
-![Images](images/Screenshot_15.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_15.png) 
 
-![Images](images/Screenshot_16.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_16.png) 
 
-![Images](images/Screenshot_17.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_17.png) 
 
-![Images](images/Screenshot_18.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_18.png) 
 
-![Images](images/Screenshot_19.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_19.png) 
 
-![Images](images/Screenshot_20.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_20.png) 
 
-![Images](images/Screenshot_21.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_21.png) 
 
-![Images](images/Screenshot_22.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_22.png) 
 
-![Images](images/Screenshot_23.png)
+![Images](https://github.com/BusisiwePieterson/LEMP_STACK/blob/main/Images/Screenshot_23.png) 
